@@ -1,6 +1,6 @@
 # progames
 Pro
-<!DOCTYPE html>
+
 <html>
 
     <head>
